@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Divija V - Product Lead"
     email: "{cipher}286a1204d05e6f1821df60a0976b65faa7b221e0ae73378e86b8d46a5768e3ee429f1068f4c4d6e379737b678743d7c4"
