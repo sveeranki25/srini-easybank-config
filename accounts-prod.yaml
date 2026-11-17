@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Divija V - Product Lead"
+    email: "divijav@eazybank.com"
+  onCallSupport:
+    - (+91) 8888888888
+    - (+91) 8888888887

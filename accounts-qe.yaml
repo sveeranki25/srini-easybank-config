@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Hamsi - QA Lead"
+    email: "hamsi@eazybank.com"
+  onCallSupport:
+    - (+91) 9999123456
+    - (+91) 9999912345
